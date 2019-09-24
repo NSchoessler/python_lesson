@@ -1,6 +1,6 @@
-# Python lesson 
+# Python Lesson 
 ## Author 
-Nina
+Nina Schößler
 ## Date
-2019-09-24
+2019-09-24 Tuesday
 
